@@ -126,7 +126,7 @@ public class JogoDaVelha extends JFrame {
             click[i] = false;
         }
         bt[4].addActionListener(new java.awt.event.ActionListener() {
-
+                
             @Override
             public void actionPerformed(ActionEvent ae) {
                 if (click[4] == false) {
@@ -262,6 +262,6 @@ public class JogoDaVelha extends JFrame {
     }
 
     public static void main(String[] args) {
-        new JogoDaVelha();
-    }
+        new JogoDaVelha(); 
+             }
 }
