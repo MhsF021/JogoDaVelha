@@ -8,13 +8,11 @@
 
 Para começar a jogar o Jogo da Velha em Java, siga estas etapas simples:
 
-
-
 ### Pré-requisitos
 
 • Clone este repositório em sua máquina local<br>
-• Navegue até o diretório do projeto
-• Compile o código-fonte Java
+• Navegue até o diretório do projeto<br>
+• Compile o código-fonte Java<br>
 • Por fim, execute o jogo.
 
 
@@ -22,5 +20,5 @@ Certifique-se de ter o Java Development Kit (JDK) instalado em sua máquina. Voc
 ```bash
 java -version
 ````
-Se o comando não for reconhecido, você precisará baixar e instalar o JDK apropriado para o seu sistema operacional.
+Se o comando não for reconhecido, você precisará baixar e instalar o JDK apropriado para o seu sistema operacional.<br>
 Lembre-se de ajustar as instruções e qualquer configuração específica que ele possa ter. 
