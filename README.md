@@ -12,7 +12,7 @@ Para começar a jogar o Jogo da Velha em Java, siga estas etapas simples:
 
 ### Pré-requisitos
 
-• Clone este repositório em sua máquina local
+• Clone este repositório em sua máquina local<br>
 • Navegue até o diretório do projeto
 • Compile o código-fonte Java
 • Por fim, execute o jogo.
